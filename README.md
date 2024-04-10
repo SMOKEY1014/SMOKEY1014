@@ -28,11 +28,11 @@
   <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200px"/>
 </div>
 <br>
-*  I’m Ntuthuko Dhlamini, but mostly known as SMOKEY <br>
-* 👀 I’m interested in Software engineering and App Development.<br>
-* 🌱 I’m currently learning Software Engineering at ALX, Also Doing few other online courses to upskill myself.<br>
-* 💞️ I’m looking to collaborate on any ICT company/Project that will help me exercise and hone my skills.<br>
-* 🎮 Gamer 
+<li>  I’m Ntuthuko Dhlamini, but mostly known as SMOKEY </li>
+<li>  👀 I’m interested in Software engineering and App Development.</li>
+<li>*  🌱 I’m currently learning Software Engineering at ALX, Also Doing few other online courses to upskill myself.</li>
+<li>  💞️ I’m looking to collaborate on any ICT company/Project that will help me exercise and hone my skills.</li>
+<li>  🎮 Gamer 
 <br><br>
 
 <h3 align="left">Languages:</h3>
